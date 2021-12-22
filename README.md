@@ -1,2 +1,2 @@
-# dio-desafio-git-yshybashy
+# Repositorio do Desafio Git/GitHub
 Desafio Dio de Git/GitHub
